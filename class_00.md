@@ -22,6 +22,6 @@ Before each class, each participant is expected to work thru the assigned chapte
 
 1. Read Chapter 1 of the book. The author includes lots of code samples. For Class 0 you don't need to type in the samples, but I do want you to try to read them,and think about what the code is doing. Python is more readable than you may imagine. If you don't understand them, that's fine. Understanding will come later. 
 2. Install Python on your computer: 
-* Use Anaconda Python, Python 2.7 version. This installs Python plus many of the scientific libraries used by Python data scientists. (https://www.continuum.io/downloads)
+* Use Anaconda Python, Python 2.7 version. This installs Python plus many of the scientific libraries used by Python data scientists. (https://www.continuum.io/downloads) [NOTE: double check to make sure you're downloading the Python 2.7 version, not the Python 3.6 version. I know this makes no sense now, and it will also make no sense later.]
 
 I recommend that you install these programs on a laptop so you can bring it to class. Thanks to Anaconda, Python and all its scientific libraries will work on Windows, but you may be happier on a Mac. 
