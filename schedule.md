@@ -63,20 +63,20 @@ Reading: Simple Linear Regression
 ## class 14: Thursday, Jan. 4
 Reading: Multiple Regression
 
-## class 15: Thursday, Jan. 18
+## OPTIONAL: Thursday, Jan. 11
 Reading: Logistic Regression
 
-## class 16: Thursday, Feb. 1
+## class 15: Thursday, Jan. 18
 Reading: Decision Trees
 
-## OPTIONAL: Thursday, Feb. 8
+## OPTIONAL: Thursday, Jan. 25
 Reading: Neural Networks
 
-## class 17: Thursday, Feb. 15
+## class 16: Thursday, Feb. 1
 Reading: Clustering
 
-## OPTIONAL: Thursday, Feb. 22
+## OPTIONAL: Thursday, Feb. 8
 Reading: Natural Language Processsing OR Network Analysis OR Recommender Systems
 
-## class 18: Thursday, March 1
+## class 17: Thursday, Feb. 15
 Reading: MapReduce
