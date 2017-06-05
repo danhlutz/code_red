@@ -42,4 +42,41 @@ Reading: Hypothesis and Inference
 ## class 8: Thursday, September 28
 Reading: Gradient Descent
 
-Rest of classes will be scheduled soon! 
+## class 9: Thursday, October 19
+Reading: Getting Data
+
+## class 10: Thursday, Nov. 2
+Reading: Working with Data
+
+## class 11: Thursday, Nov. 16
+Reading: Machine Learning
+
+## class 12: Thursday, Nov. 30
+Reading: k-Nearest Neighbors
+
+## OPTIONAL: Thursday, Dec. 7
+Reading: Naive Bayes
+
+## class 13: Thursday, Dec. 14
+Reading: Simple Linear Regression
+
+## class 14: Thursday, Jan. 4
+Reading: Multiple Regression
+
+## class 15: Thursday, Jan. 18
+Reading: Logistic Regression
+
+## class 16: Thursday, Feb. 1
+Reading: Decision Trees
+
+## OPTIONAL: Thursday, Feb. 8
+Reading: Neural Networks
+
+## class 17: Thursday, Feb. 15
+Reading: Clustering
+
+## OPTIONAL: Thursday, Feb. 22
+Reading: Natural Language Processsing OR Network Analysis OR Recommender Systems
+
+## class 18: Thursday, March 1
+Reading: MapReduce
