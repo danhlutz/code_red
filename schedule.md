@@ -5,7 +5,7 @@ All classes will be held from Noon to 1 pm.
 ## class 1: Thursday, June 15
 Reading: Introduction
 
-# class 2: Thursday, June 29
+## class 2: Thursday, June 29
 Reading: A Crash Course in Python
 Makeups:
 * Thursday, June 22
