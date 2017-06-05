@@ -1,6 +1,6 @@
 ## Code Red: Learning Python for Trade Union Data Science
 
-# Class 0: Getting Started
+# Class 1: Getting Started
 
 Welcome! At our first class we will
 * Talk about why we're taking this class and how we hope to use Python in our work and activism
