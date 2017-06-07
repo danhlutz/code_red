@@ -18,9 +18,9 @@ Each class will cover one chapter of the textbook.
 
 Before each class, each participant is expected to work thru the assigned chapter of the textbook, type in the code, and try to make it work. During the class we'll discuss both the concepts of the chapter and problems we ran into with the code. 
 
-## Before Class 0
+## Before Class 1
 
-1. Read Chapter 1 of the book. The author includes lots of code samples. For Class 0 you don't need to type in the samples, but I do want you to try to read them,and think about what the code is doing. Python is more readable than you may imagine. If you don't understand them, that's fine. Understanding will come later. 
+1. Read Chapter 1 of the book. The author includes lots of code samples. For Class 1 you don't need to type in the samples, but I do want you to try to read them,and think about what the code is doing. Python is more readable than you may imagine. If you don't understand them, that's fine. Understanding will come later. 
 2. Install Python on your computer: 
 * Use Anaconda Python, Python 2.7 version. This installs Python plus many of the scientific libraries used by Python data scientists. (https://www.continuum.io/downloads) [NOTE: double check to make sure you're downloading the Python 2.7 version, not the Python 3.6 version. I know this makes no sense now, and it will also make no sense later.]
 
