@@ -21,6 +21,7 @@ I want you to try to write a simple python function that asks for someone to ent
 * What are the unique letters in the name?
 * How many times do those letters appear?
 * And if you're feeling really ambitious, is your name a **PALINDROME**?
+* Maybe you have other cool features you'd love to add to this cool new app -- like telling someone the vowels that appear in their name. Your imagination is the limit here.
 
 Here are some hints to get you started: 
 * Use the python function raw_input to ask for the name. It works like this
