@@ -25,11 +25,13 @@ I want you to try to write a simple python function that asks for someone to ent
 Here are some hints to get you started: 
 * Use the python function raw_input to ask for the name. It works like this
 
-```x = raw_input("What's your favorite color? ") ```
+```your_name = raw_input("What's your favorite color? ") ```
 
 * The ```len``` function tells you how long a string is
 
 * How about useing a ```Counter``` to tell you how many times the letters appear. You can also use a ```set``` to give you the unique values in a string.
+
+* Use the ```print``` function to spit out your results
 
 * If you want to check if a string is a palindrome, talk to Dan about how to write a recursive function 
 
