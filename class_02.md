@@ -34,10 +34,10 @@ Here are some hints to get you started:
 
 * It's a good idea to wrap up all your code in a function. A function defintion looks like this
 
-```def my_name_stats():
-    your
-    code
-    here```
+```def my_name_stats():```
+```    your```
+```    code```
+```    here```
 
 * Use the ```print``` function to spit out your results
 
