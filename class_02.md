@@ -30,7 +30,14 @@ Here are some hints to get you started:
 
 * The ```len``` function tells you how long a string is
 
-* How about useing a ```Counter``` to tell you how many times the letters appear. You can also use a ```set``` to give you the unique values in a string.
+* How about useing a ```Counter``` to tell you how many times the letters appear. You can also use a ```set``` to give you the unique values in a string. (And don't forget to use ```Counter``` you must ```import``` it ```from collections```
+
+* It's a good idea to wrap up all your code in a function. A function defintion looks like this
+
+```def my_name_stats():
+    your
+    code
+    here```
 
 * Use the ```print``` function to spit out your results
 
