@@ -25,3 +25,11 @@ Before each class, each participant is expected to work thru the assigned chapte
 * Use Anaconda Python, Python 2.7 version. This installs Python plus many of the scientific libraries used by Python data scientists. (https://www.continuum.io/downloads) [NOTE: double check to make sure you're downloading the Python 2.7 version, not the Python 3.6 version. I know this makes no sense now, and it will also make no sense later.]
 
 I recommend that you install these programs on a laptop so you can bring it to class. Thanks to Anaconda, Python and all its scientific libraries will work on Windows, but you may be happier on a Mac. 
+
+## Class 1 outline
+
+* Go-around: How are you hoping to apply what you learn in this class to your work as a union activist?
+* Using the Jupyter Notebook
+* Write "Hello comrade" program
+* Take assignments for facilitating future classes
+* Review Class 2 assignments
