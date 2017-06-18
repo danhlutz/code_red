@@ -46,3 +46,15 @@ def my_name_stats():
 * If you want to check if a string is a palindrome, talk to Dan about how to write a recursive function 
 
 Please take a stab at this exercise after you've finished the reading. If you get stuck or have any problems, feel free to bring it up in class -- it will be helpful to work through the problems. 
+
+# class agenda
+
+* review my_name_stats -- who had errors? 
+
+* side note on division in Python 2.7
+
+* introduction to lists!
+    * making a list
+    * list indexing
+    * list slicing
+    * going thru a list and doing something to each item 
