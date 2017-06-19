@@ -58,3 +58,5 @@ Please take a stab at this exercise after you've finished the reading. If you ge
     * list indexing
     * list slicing
     * going thru a list and doing something to each item 
+
+* getting a grounding in computer science: MIT OCW 6.00SC
