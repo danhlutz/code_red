@@ -24,3 +24,10 @@ def find_balance_in_twelve(
         balance -= principal_paid
         if verbose: print ("Remaining balance: $" + str(balance))
     return balance
+
+
+if __name__ == '__main__':
+    balance = float(input('What is your current balance? '))
+    rate = float(input("What is your interest rate? "))
+    min_payment_rate = float(input("And what is your minimum payment rate? "))
+    find_balance_in_twelve(balance, rate, min_payment_rate, verbose=True)

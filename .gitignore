@@ -1,3 +1,4 @@
 class_notebooks/*
 .DS_Store
 *.pyc
+exercises_04/__pycache__/problem01.cpython-36.pyc

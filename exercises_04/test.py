@@ -28,5 +28,11 @@ class InterestTest(unittest.TestCase):
         )
 
 
+    def test_after_twelve_higher_minimum(self):
+        balance_after_twelve = find_balance_in_twelve(4800.00, 0.20, 0.04)
+        self.assertTrue(
+            abs(3615.74 - balance_after_twelve) < 0.25
+        )
+
 if __name__ == '__main__':
     unittest.main()
