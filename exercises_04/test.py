@@ -4,7 +4,7 @@ from problem01 import (
     find_minimum_payment, find_interest_paid, find_principal_paid,
     find_balance_in_twelve,
 )
-from problem02 import find_payoff
+from problem02 import find_payoff, find_payoff_bisection
 
 
 class InterestTest(unittest.TestCase):
@@ -52,8 +52,10 @@ class PayoffTest(unittest.TestCase):
 
 
     def test_find_payoff_with_bisection(self):
-        payoff_amount, months = find_payoff_bisection(320000.00, 0.2)
-        self.assertEqual(months, 12)
+        payoff_amount = find_payoff_bisection(320000.00, 0.2)
+        self.assertTrue(
+            abs(29643.05 - payoff_amount) < 1.00
+        )
 
 
 if __name__ == '__main__':
