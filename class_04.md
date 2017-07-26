@@ -22,3 +22,18 @@ For these two problems, you'll be using a powerfully dumb algorithm called "gues
 
 # Class agenda
 
+* Chapter review: What problems did you run into running the code? 
+
+* Looping practice
+
+    * Problem 01
+
+        * how can we break Problem 01 into smaller functions? 
+
+    * the ```while``` loop and an example
+
+        * making sure your while loop doesn't run forever
+
+    * Problem 02: guess and check
+
+    * Problem 03: introduction to bisection search
