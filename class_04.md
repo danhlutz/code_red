@@ -35,5 +35,7 @@ For these two problems, you'll be using a powerfully dumb algorithm called "gues
         * making sure your while loop doesn't run forever
 
     * Problem 02: guess and check
+    
+    * looping back full circle: the list comprehension
 
-    * Problem 03: introduction to bisection search
+    * IF WE HAVE TIME: Problem 03: introduction to bisection search
