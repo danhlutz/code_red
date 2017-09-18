@@ -20,11 +20,11 @@ Here are some possible topics for future classes. I think we'll have the most su
 ## work topics
 
 * working with csv files
- * data cleaning
- * running functions on your data
+  * data cleaning
+  * running functions on your data
 
 * talking to the internet
- * requests and APIs
- * scraping
+  * requests and APIs
+  * scraping
 
 * more plotting
