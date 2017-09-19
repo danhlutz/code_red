@@ -19,8 +19,7 @@ Working with csv files
 
 ## class 9: Thursday, October 19
 
-* recursion 
-* functions as arguments and return values
+Objects and Object Oriented Programming 
 
 ## class 10: Thursday, Nov. 2
 
@@ -30,14 +29,15 @@ Talking to the internet
 
 ## class 11: Thursday, Nov. 16
 
-Objects and Object Oriented Programming 
-
-## class 12: Thursday, Nov. 30
-
 Beyond matplotlib: exploring the bokeh library
 
-## class 13: Thursday, Dec. 14
+## class 12: Thursday, Nov. 30
 
 * writing tests
 * test-driven development
 * what's next
+
+## class 13: Thursday, Dec. 14
+
+* recursion 
+* functions as arguments and return values
